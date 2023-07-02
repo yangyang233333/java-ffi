@@ -1,3 +1,5 @@
 java-ffi.iml
 .idea
 out
+cmake-build-debug
+CMakeFiles
