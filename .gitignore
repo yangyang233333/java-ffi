@@ -5,3 +5,4 @@ cmake-build-debug
 CMakeFiles
 target
 build
+*.so
