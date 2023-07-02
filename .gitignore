@@ -3,3 +3,5 @@ java-ffi.iml
 out
 cmake-build-debug
 CMakeFiles
+target
+build
